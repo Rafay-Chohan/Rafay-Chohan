@@ -1,6 +1,6 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
-Hello! my name is Abdul Rafay Chohan. I am currently a Bachelors Student at <b>Fast NUCES</b>.  I am  interested in Web development, and know how to use HTML, CSS and basic JavaScript. I am also interested in learning App Development, Especially Apps with AI integration.
+Hello! my name is Abdul Rafay Chohan. I am currently a Bachelors Student at <b>FAST NUCES</b>.  I am  interested in Web development, and know how to use HTML, CSS and basic JavaScript. I am also interested in learning App Development, Especially Apps with AI integration.
 
 
 
