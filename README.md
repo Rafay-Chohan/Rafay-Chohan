@@ -9,9 +9,9 @@ I am available for Interships and all sorts of learning oppurtunities, while als
 
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![Web Dev](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![Android](https://img.shields.io/badge/App_Dev-%23323330.svg?style=for-the-badge&logo=android&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+![Android](https://img.shields.io/badge/Android_App_Dev-%23323330.svg?style=for-the-badge&logo=android&logoColor=%23F7DF1E)
+![Unity](https://img.shields.io/badge/Unity_Game_Dev-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%23F7DF1E)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=EF4C23)
 ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=468FCC)
