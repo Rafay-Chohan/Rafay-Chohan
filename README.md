@@ -1,23 +1,102 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
-Hello! my name is Abdul Rafay Chohan. I am currently a Bachelors Student at <b>FAST NUCES</b>.  I am  interested in Web development, and know how to use HTML, CSS and basic JavaScript. I am also interested in learning App Development, Especially Apps with AI integration.
-
+Hello! my name is Abdul Rafay Chohan. I am currently a Computer Science Student at <b>FAST NUCES</b>. I am  interested in Machine Learning/AI, i have trained ANNs in Python as well. I also have experience in Android App Development using Java. I am always learning new things and i consider myself a fast learner.
 
 
 I am available for Interships and all sorts of learning oppurtunities, while also being available for projects. So feel free to contact me!
 ## 💻 My Tech Stack:
 
+### Programming Languages
 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![Android](https://img.shields.io/badge/Android_App_Dev-%23323330.svg?style=for-the-badge&logo=android&logoColor=%23F7DF1E)
-![Unity](https://img.shields.io/badge/Unity_Game_Dev-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C/C++-%23323330.svg?style=for-the-badge&logo=c++&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=EF4C23)
-![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=468FCC)
-![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=071A33)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=1D1C57)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" width="50" height="50"/>
+      </a>
+      <br>C/C++
+    </td>
+    <td align="center">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+      </a>
+      <br>Java
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="50" height="50"/>
+      </a>
+      <br>SQL
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" width="50" height="50"/>
+      </a>
+      <br>AI
+    </td>
+    <td align="center">
+      <a href="https://developer.android.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android App Development" width="50" height="50"/>
+      </a>
+      <br>Android App Dev
+    </td>
+  </tr>
+</table>
+
+### Development Tools
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://unity.com/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" width="50" height="50"/>
+      </a>
+      <br>Unity
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center">
+      <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/android-studio.png" alt="Android Studio" width="50" height="50"/>
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="50" height="50"/>
+      </a>
+      <br>GitHub
+    </td>
+   </tr>
+</table>
 
 
 ## Other Skills/ Hobbies
@@ -39,6 +118,16 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 </tbody>
 </table>
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdulrafaychohan/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abrkchohan@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" height="50"/>
+  </a>
+</p>
 
 
 
